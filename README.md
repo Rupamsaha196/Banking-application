@@ -1,5 +1,5 @@
 # Banking-application
-A banking system for deposit and withdrawing amount using inheritance in java(OOP concept)
+A banking system for depositing  and withdrawing amount using the concept of inheritance in java(OOP concept)
 // BankAccount.java
 // Parent class BankAccount
  class BankAccount {
